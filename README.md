@@ -1,2 +1,2 @@
-# 高専祭と音楽祭のウェブサイトのコードです
+# 高専祭・音楽祭ウェブサイト
 [ウェブサイト](http://onct.oita-ct.ac.jp/students/gakuseikai/kosensai/index.html)
